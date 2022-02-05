@@ -4,9 +4,9 @@
   "description": "A Pen created on CodePen.io. Original URL: [https://codepen.io/somakijana/pen/oNojmOz](https://codepen.io/somakijana/pen/oNojmOz).",
   "main": "index.js",
   "repository": {
-    "url": "git+https://github.com/pkiage/art-ndoto-ukweli-pamoja-angani.git"
+    "url": "git+https://github.com/pkiage/art-ndoto-ukweli-pamoja-angani-scroll.git"
   },
-  "homepage": "https://github.com/pkiage/art-ndoto-ukweli-pamoja-angani",
+  "homepage": "https://github.com/pkiage/art-ndoto-ukweli-pamoja-angani-scroll",
   "scripts": {
     "test": "jest",
     "start": "vite",
