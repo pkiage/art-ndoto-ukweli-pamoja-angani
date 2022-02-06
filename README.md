@@ -16,6 +16,10 @@ Install development dependencies:
 
 npm install -D
 
+Compile the code for development and start a local server:
+
+npm start
+
 ## Inspiration and References
 
 Ndoto Ukweli Pamoja Angani represent project phases.
