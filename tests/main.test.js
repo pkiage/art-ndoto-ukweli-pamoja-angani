@@ -1,4 +1,4 @@
-import { getClonesHeight, getScrollPos } from '../../src/util'
+import { getClonesHeight, getScrollPos } from '../src/util'
 import * as fc from 'fast-check'
 
 describe('Get current scroll position', () => {
